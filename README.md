@@ -29,12 +29,6 @@
             "blog": "<a href="http://json.blog">json.blog</a>"
         },
         {
-            "micro": "<a href="http://micro.json.blog" rel = "me">micro.json.blog</a>"
-        },
-        {
-            "tumblr": "<a href="http://tumblr.jsonbecker.com">http://tumblr.jsonbecker.com</a>"
-        },
-        {
             "twitter": "<a href="http://www.twitter.com/jsonbecker">jsonbecker</a>"
         }
     ]
