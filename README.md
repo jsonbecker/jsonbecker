@@ -1,20 +1,21 @@
 <pre>{
     "fname": "Jason",
     "lname": "Becker",
+    "pronouns": "he/him",
     "resume": "<a href="http://www.jsonbecker.com/jbecker_resume.pdf">pdf</a>",
     "interests": {
         "personal": [
-            "technology",
-            "sci-fi",
-            "scripting",
+            "sff",
             "cities",
-            "Providence",
-            "guitar"
+            "guitar",
+            "tech",
+            "transit policy",
+            "<a href="https://craigmod.com/essays/a_need_to_walk/">walks</a>"
         ],
         "professional": [
             "product management",
             "R",
-            "data analysis"
+            "data analysis",
         ],
         "music": [
             "post-rock",
@@ -23,10 +24,10 @@
             "instrumental",
             "experimental"
         ]
-    },
+    },    
     "social": [
         {
-            "blog": "<a href="http://json.blog">json.blog</a>"
+            "blog": "<a href="http://json.blog" rel="me">json.blog</a>"
         },
         {
             "twitter": "<a href="http://www.twitter.com/jsonbecker">jsonbecker</a>"
